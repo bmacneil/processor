@@ -1,0 +1,9 @@
+// 1st Column: Signal in Hex
+// 2nd Column: Signal Identifier
+// Remove comments, separate the columns by a space
+// Save as a txt file and import using gtkwave
+00 RTYPE
+02 J
+04 BEQ
+20 LB
+28 SB

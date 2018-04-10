@@ -1,0 +1,4 @@
+00 RegB
+01 1
+10 Imm
+11 Imm_shift
