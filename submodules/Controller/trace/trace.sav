@@ -1,0 +1,46 @@
+[*]
+[*] GTKWave Analyzer v3.3.66 (w)1999-2015 BSI
+[*] Thu Mar 29 19:20:12 2018
+[*]
+[dumpfile] "/home/brad/Projects/verilog/Controller/trace/trace.vcd"
+[dumpfile_mtime] "Thu Mar 29 19:16:41 2018"
+[dumpfile_size] 7776
+[savefile] "/home/brad/Projects/verilog/Controller/trace/trace.sav"
+[timestart] 8
+[size] 1366 742
+[pos] -1 -1
+*-5.360323 126 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] TOP.
+[treeopen] TOP.v.
+[sst_width] 213
+[signals_width] 166
+[sst_expanded] 1
+[sst_vpaned_height] 208
+@28
+TOP.v.i_clk
+TOP.v.i_reset
+@2022
+^1 /home/brad/Projects/verilog/Controller/trace/functcode_gtk_mapping.txt
+TOP.i_funct[5:0]
+^2 /home/brad/Projects/verilog/Controller/trace/opcode_gtkwave_mapping.txt
+TOP.i_op[5:0]
+@28
+TOP.i_zero
+TOP.o_alucontrol[2:0]
+TOP.o_alusrca
+TOP.o_alusrcb[1:0]
+TOP.o_iord
+TOP.o_memread
+TOP.o_memtoreg
+TOP.o_memwrite
+TOP.o_pcen
+TOP.o_pcsrc[1:0]
+TOP.o_regdst
+TOP.o_regwrite
+@2023
+^3 /home/brad/Projects/verilog/Controller/trace/state_gtkwave_map.txt
+TOP.v.fsm.state[3:0]
+^3 /home/brad/Projects/verilog/Controller/trace/state_gtkwave_map.txt
+TOP.v.fsm.nextstate[3:0]
+[pattern_trace] 1
+[pattern_trace] 0

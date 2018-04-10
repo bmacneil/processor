@@ -1,0 +1,38 @@
+[*]
+[*] GTKWave Analyzer v3.3.66 (w)1999-2015 BSI
+[*] Mon Apr  2 23:38:20 2018
+[*]
+[dumpfile] "/home/brad/Projects/verilog/Registers/trace/trace.vcd"
+[dumpfile_mtime] "Mon Apr  2 23:38:07 2018"
+[dumpfile_size] 4592
+[savefile] "/home/brad/Projects/verilog/Registers/trace/trace.sav"
+[timestart] 8
+[size] 1366 742
+[pos] -1 -1
+*-4.382049 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] TOP.
+[sst_width] 213
+[signals_width] 166
+[sst_expanded] 1
+[sst_vpaned_height] 208
+@28
+TOP.v.i_clk
+TOP.v.i_reset
+@22
+TOP.v.RegTable(0)[31:0]
+TOP.v.RegTable(1)[31:0]
+TOP.v.RegTable(2)[31:0]
+TOP.v.RegTable(3)[31:0]
+TOP.v.i_ALUout[31:0]
+TOP.v.i_Memdata[31:0]
+TOP.v.i_RegA_addr[4:0]
+TOP.v.i_RegB_addr[4:0]
+TOP.v.i_RegD_addr[4:0]
+@28
+TOP.v.i_memtoreg
+TOP.v.i_regwrite
+@22
+TOP.v.o_RegA[31:0]
+TOP.v.o_RegB[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
